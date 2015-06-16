@@ -1,9 +1,8 @@
 {
-	"target": "device",
-	"deployType": "test",
+	"target": "simulator",
+	"deployType": "development",
 	"iosSdkVersion": "8.3",
 	"deviceFamily": "universal",
-	"developerName": "Faizan Siddiqui (RADVVZ7647)",
 	"iosSdkPath": "/Users/codingbrains/Library/Application Support/Titanium/mobilesdk/osx/4.0.0.GA/iphone",
 	"tiCoreHash": "5710cda7b179a3c8391cc94011e308de",
 	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -18,8 +17,8 @@
 	"description": "",
 	"copyright": "2015 by codingbrains",
 	"guid": "22055ef9-c654-400f-aef5-c76f1e3d2baf",
-	"skipJSMinification": false,
+	"skipJSMinification": true,
 	"forceCopy": false,
 	"forceCopyAll": false,
-	"encryptJS": true
+	"encryptJS": false
 }
